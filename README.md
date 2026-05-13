@@ -1,185 +1,192 @@
-<h1 align="center">Hi 👋, I'm Abhishek Tripathi</h1>
-<h3 align="center">Full Stack Developer • MERN & Next.js Engineer • DSA Enthusiast • SDET Aspirant</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Abhishek882772">
-    <img src="https://komarev.com/ghpvc/?username=Abhishek882772&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+# Hi there, I'm Abhishek Tripathi 👋
 
----
+### Full Stack Developer · MERN & Next.js Engineer · SDET Aspirant
 
-# 💫 About Me
-
-🎓 B.Tech Computer Science student passionate about **Software Development, Problem Solving, and Scalable Systems**  
-💻 Strong interest in **Data Structures & Algorithms**, **Backend Engineering**, and **Full Stack Development**  
-🚀 Built and deployed production-grade applications using **MERN Stack** and **Next.js**  
-🧠 Consistently practicing DSA and improving problem-solving through real-world implementation  
-⚡ Interested in **SDET**, testing practices, debugging, and software reliability  
-🌱 Currently learning **System Design, Cloud Computing, CI/CD, and Scalable Backend Architectures**  
-📂 Focused on writing clean, maintainable, and production-ready code with strong engineering practices  
-💼 Open to **Software Engineering Internships** and **Full-Time Opportunities**
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-tripathi-a548142b8" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-</a>
-
-<a href="mailto:abhishek704tripathi@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
-</a>
-
-<a href="https://instagram.com/abhishek_.ace" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
-</a>
-
-<a href="https://x.com/@AbhishekTr66198" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/x/white" height="35" width="35" />
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,html,css" />
-</p>
-
-### ⚛️ Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1A56A8&center=true&vCenter=true&width=600&lines=Building+production-ready+web+apps;MERN+%7C+Next.js+%7C+Socket.io;Passionate+about+code+quality+%26+reliability;Open+to+Internship+%26+SDE+opportunities)](https://git.io/typing-svg)
 
 <p>
-<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white" />
+  <a href="https://linkedin.com/in/abhishek-tripathi-a548142b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abhishek704tripathi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-teal-mu-62.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Abhishek882772"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/@AbhishekTr66198"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
-### 🛠 Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek882772&color=1A56A8&style=flat-square&label=Profile+Views)
 
-<p>
-<img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma,vscode" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+</div>
 
 ---
 
-# 📌 Featured Projects
+## 🧑‍💻 About Me
 
-## 🚀 NextBloom — Creator & Community Platform
-**Next.js • MongoDB Atlas • Socket.IO • Node.js • Vercel**
+```javascript
+const abhishek = {
+  location: "Ghaziabad, Uttar Pradesh 🇮🇳",
+  education: "B.Tech CSE (Data Science) @ ABES Engineering College, AKTU — GPA: 8.09",
+  currentFocus: ["Full Stack Development", "DSA & Problem Solving", "SDET / QA Automation"],
+  workingOn: "NextBloom — a scalable Creator & Community platform",
+  openTo: "Internships · SDE roles · SDET roles",
+  funFact: "I debug for fun and somehow that's not a red flag 🐛",
+};
+```
 
-- Built a scalable creator & community platform using modular MVC architecture
-- Implemented secure authentication, protected routes, and transactional emails
-- Integrated real-time messaging & notifications using Socket.IO
-- Optimized MongoDB schemas for scalable data access patterns
-- Deployed with production-grade environment configuration on Vercel
-
----
-
-## 🏥 Hospital Management System
-**Next.js • MongoDB • Socket.IO • Vercel**
-
-- Developed a role-based hospital management platform for admins, doctors, and patients
-- Built secure real-time doctor-patient communication using Socket.IO
-- Implemented protected routing, validation, and RBAC architecture
-- Improved appointment workflow efficiency through automation
+- 🔭 I build **end-to-end, production-ready web applications** — not just demos, actual deployed products
+- ⚡ I care deeply about **code quality, system reliability, and clean architecture**
+- 🧪 Aspiring **SDET** — I want to break things professionally before users get the chance to
+- 📚 Currently sharpening: **System Design fundamentals**, **DSA**, and **testing best practices**
+- 💬 Ask me about anything **MERN, Next.js, REST APIs, or real-time systems**
 
 ---
 
-# 🧠 Areas of Interest
+## 🛠️ Tech Stack
 
-- Data Structures & Algorithms
-- Full Stack Development
-- Backend Engineering
-- System Design
-- Software Testing & QA
-- Scalable Web Applications
-- Cloud Deployment & DevOps
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-# 📊 GitHub Analytics
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek882772&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek882772&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek882772&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek882772&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek882772&theme=tokyo-night&hide_border=true"/>
-</p>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-# 📜 Certifications
+## 🚀 Featured Projects
 
-🏅 AWS Cloud Practitioner — Amazon Web Services  
-🏅 AWS Introduction to Cloud Computing — AWS  
-🏅 Full Stack Web Development — LaunchEd Global  
-🏅 Data Analytics & Visualization Virtual Experience — Accenture North America  
-🏅 Smart India Hackathon (SIH) — Project Completion Certificate
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌸 NextBloom</h3>
+      <p><strong>Full Stack Creator & Community Platform</strong></p>
+      <p>
+        Architected a scalable creator platform with real-time messaging, live YouTube integration, interactive maps, and secure role-based auth. Built with modular MVC backend on Next.js + MongoDB Atlas.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio"/>
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
+      </p>
+      <p>✅ Real-time chat via Socket.IO &nbsp;|&nbsp; ✅ Indexed MongoDB schema &nbsp;|&nbsp; ✅ Live on Vercel</p>
+    </td>
+    <td width="50%">
+      <h3>🏥 Hospital Management System</h3>
+      <p><strong>Role-Based Full Stack Web App</strong></p>
+      <p>
+        Role-based system (admin / doctor / patient) that reduced manual appointment scheduling effort by ~40%. Features real-time doctor–patient chat, secure DB design, and protected routing.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio"/>
+        <img src="https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <p>✅ RBAC with JWT &nbsp;|&nbsp; ✅ Socket.io chat &nbsp;|&nbsp; <a href="https://hospital-management-1nhk.vercel.app/">🔗 Live Demo</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🎯 Current Focus
+## 💼 Experience
 
-✔ Building scalable MERN & Next.js applications  
-✔ Improving DSA and competitive programming skills  
-✔ Learning advanced backend architecture and system design  
-✔ Exploring cloud infrastructure and CI/CD workflows  
-✔ Writing reliable, maintainable, and production-quality software
-
----
-
-# 💡 What I Bring To The Table
-
-✔ Strong debugging & root cause analysis skills  
-✔ Full SDLC understanding from development to deployment  
-✔ Agile mindset and collaborative workflow experience  
-✔ Clean code practices and scalable architecture thinking  
-✔ Passion for continuous learning and software quality
+**Full Stack Developer Intern @ Deveelo X** *(2 Months)*
+- Shipped full-stack features using MERN + Next.js in an Agile team environment
+- Implemented real-time features with Socket.io; handled edge cases like connection drops and room isolation
+- Participated in code reviews on GitHub; consistently flagged bugs before they reached production
+- Practiced systematic root cause analysis — traced errors through stack traces, logs, and API responses
 
 ---
 
-<p align="center">
-  <i>"Code. Build. Learn. Repeat."</i>
-</p>
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| ☁️ AWS Cloud Practitioner | Amazon Web Services |
+| ☁️ AWS Introduction to Cloud Computing | Amazon Web Services |
+| 💻 Full Stack Web Development | LaunchEd Global |
+| 📊 Data Analytics & Visualization | Accenture North America (Forage) |
+| 🏆 Smart India Hackathon | Project Completion Certificate |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek882772&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek882772&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhishek882772&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Abhishek882772&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek882772&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Great
+
+*I'm actively looking for internship and SDE/SDET opportunities.*
+*If you're building something interesting or have a role that fits — let's talk.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-tripathi-a548142b8)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek704tripathi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-teal-mu-62.vercel.app)
+
+<br/>
+
+*"Write code that you'd be proud to read six months from now."*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
