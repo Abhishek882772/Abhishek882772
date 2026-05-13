@@ -120,24 +120,6 @@ const abhishek = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek882772&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek882772&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek882772&theme=tokyonight&hide_border=true" />
-</p>
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abhishek882772&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
